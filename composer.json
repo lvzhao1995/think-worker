@@ -1,11 +1,11 @@
 {
-    "name": "topthink/think-worker",
+    "name": "topthink/think-worker-for-win",
     "description": "workerman extend for thinkphp5",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "lvzhao1995",
+            "email": "abc-1.2@qq.com"
         }
     ],
     "require": {
