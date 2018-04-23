@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-	"workerman/workerman":"^3.3.0"
+	"workerman/workerman-for-win":"^3.5"
     },
     "autoload": {
         "psr-4": {
